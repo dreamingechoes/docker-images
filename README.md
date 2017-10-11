@@ -7,7 +7,7 @@ A set of Docker images to use in the development of my personal projects. All av
 Let's pretend that you're developing a `Phoenix` application and you want to create a basic `Dockerfile` for development purposes. The code of you `Dockerfile` will look like this:
 
 ```
-FROM dreamingechoes/elixir-1.5.1:latest
+FROM dreamingechoes/elixir:1.5.1
 
 # Install hex, rebar, and get deps
 ENV MIX_ENV=dev
