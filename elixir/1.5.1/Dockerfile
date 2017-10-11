@@ -1,6 +1,6 @@
 #
 # Based on Alpine Linux 3.6, with Erlang 20.1 [erts-9.1], Elixir 1.5.1 and Node.js 8.6.0
-# Docker Hub repository: https://hub.docker.com/r/dreamingechoes/elixir-1.5.1
+# Docker Hub repository: https://hub.docker.com/r/dreamingechoes/elixir
 #
 FROM alpine:3.6
 
