@@ -1,6 +1,6 @@
 # Docker images
 
-A set of Docker images to use in the development of my personal projects. All available at [hub.docker.com](hub.docker.com).
+A set of Docker images to use in the development of my personal projects. All available at [hub.docker.com/r/dreamingechoes](https://hub.docker.com/r/dreamingechoes).
 
 ## Usage example
 
